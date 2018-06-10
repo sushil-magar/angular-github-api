@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sushil-magar/angular-github-api/issues"
   },
-  "homepage": "https://github.com/sushil-magar/angular-github-api#readme"
+  "homepage": "https://github.com/sushil-magar/angular-github-api#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
 }
