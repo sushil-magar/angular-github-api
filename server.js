@@ -2,8 +2,6 @@ require('dotenv').config({silent: true});
 
 const express = require('express');
 const app = express();
-const bodyParser = require('body-parser');
-const methodOverride = require('method-override');
 const path = require('path');
 
 // const db = require('./db/config');
